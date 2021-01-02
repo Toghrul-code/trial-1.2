@@ -3,7 +3,7 @@
 
 int main() {
     int x, y;
-    printf("welcome to program");
+    printf("welcome to program\n");
     printf("X: ");
     scanf("%d", &x);
     printf("Y: ");

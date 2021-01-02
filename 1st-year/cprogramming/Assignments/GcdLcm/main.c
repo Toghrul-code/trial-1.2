@@ -13,6 +13,7 @@ int printPrime(int x){
 }
 int main(){
     int N, A_dizi[100]={};
+    printf("welcome to program");
     printf("how many numbers will be entered:");
     scanf("%d",&N);
     for (int i = 0; i < N; ++i) {
