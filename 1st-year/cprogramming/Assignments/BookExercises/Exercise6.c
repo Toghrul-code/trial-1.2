@@ -3,7 +3,7 @@
 int main() {
   int amount,p20,p10,p5,p1,pr20,pr10,pr5,pr1;
   printf("Enter the Amount:");
-  scanf("%d",amount);
+  scanf("%d",&amount);
 
   p20 = amount/20;
 
